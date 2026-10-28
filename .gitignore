@@ -1,0 +1,16 @@
+.venv/
+.env
+.idea/
+__pycache__/
+.pytest_cache/
+.test-tmp/
+*.py[cod]
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/.test-runtime/
+data/final-verification/
+data/verification/
+data/.example-runtime/
+dist/
+*.egg-info/
